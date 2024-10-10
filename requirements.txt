@@ -87,7 +87,7 @@ requests-file==1.5.1
 Scrapy==2.4.1
 secure==0.2.1
 service-identity==18.1.0
-Sitadel==1.0.1
+Sitadel==1.0.0
 six==1.15.0
 soupsieve==2.1
 stem==1.8.0
